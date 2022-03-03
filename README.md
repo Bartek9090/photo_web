@@ -6,7 +6,7 @@ A responsive photography website
 
 The website consists of: <br/>  
   4 sections:
-  - 1 Animated menu with floating-bg anumated in CSS.
+  - 1 Animated menu with floating-bg animated in CSS.
   - 2 Gallery of pictures
   - 3 Section about us, Contain pictures of team with more details on hoover effect.
   - 4 Contact section  with footer on the end.
